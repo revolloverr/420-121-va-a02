@@ -1,2 +1,4 @@
+i added a line to the beginning
+
 Hereis my second file
 It is also a wonderful file yippee
